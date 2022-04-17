@@ -1,8 +1,8 @@
 # Kafka_Gradle
 Translation of kafka java codes to python.
-compile your project by using 
+Checkout the project and Compile the same by using 
 
 ./gradlew build
 
 
-by setting appropriate Main class name in jar section of build.gradle file.
+Please set appropriate Main class name in jar section of build.gradle file before running aforementioned command.
